@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<manifest identifier="yQ6AitEzaeez38HB-DTn45vE4guwY_H0ns8Qbyb_" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Self-Paced Course for Enhancing Arabic Reading and Listening Skills | MSA</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Self-Paced Course for Enhancing Arabic Reading and Listening Skills | MSA</title>
+        <adlcp:datafromlms>eyJjcHYiOiJuczhRYnliXyIsInJsZCI6ZmFsc2V9</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/fonts/icomoon.ttf"/>
+        <file href="scormcontent/lib/fonts/icomoon.woff"/>
+
+        <file href="scormcontent/lib/icomoon.css"/>
+        <file href="scormcontent/lib/player-0.0.11.min.js"/>
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/1879cea8.js" />
+<file href="scormcontent/lib/rise/11732e6a.css" />
+<file href="scormcontent/lib/rise/8a904efb.js" />
+<file href="scormcontent/lib/rise/1b451569.css" />
+<file href="scormcontent/lib/rise/a4e1a109.js" />
+<file href="scormcontent/lib/rise/eb9bd09f.js" />
+<file href="scormcontent/lib/rise/20be7de8.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/b6873211.js" />
+<file href="scormcontent/lib/mondrian/0e859ef5.js" />
+<file href="scormcontent/lib/mondrian/7b2a258a.js" />
+<file href="scormcontent/lib/mondrian/18ae508c.js" />
+<file href="scormcontent/lib/mondrian/3e40eb79.js" />
+<file href="scormcontent/lib/mondrian/cdf9a293.js" />
+<file href="scormcontent/lib/mondrian/3f9ba7c0.js" />
+<file href="scormcontent/lib/mondrian/07d24945.js" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Montserrat-SemiBold.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Medium.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Black.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Bold.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Italic.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Regular.woff" />
+<file href="scormcontent/lib/fonts/Montserrat-Light.woff" />
+<file href="scormcontent/lib/fonts/Cormorant-Bold.woff" />
+<file href="scormcontent/lib/fonts/Cormorant-Italic.woff" />
+<file href="scormcontent/lib/fonts/Cormorant-Regular.woff" />
+<file href="scormcontent/lib/fonts/Cormorant-Light.woff" />
+<file href="scormcontent/assets/4dNI5AA0un4YC0c__small.png" />
+<file href="scormcontent/assets/IvSdEe/smallerarmy-1_wide-bf3d4b8d224abcfbc7545913811613d23dda05a3.jpg" />
+<file href="scormcontent/assets/m9VtqtWVlrttDRbC_xzft800TiW2H3ylU.jpg" />
+<file href="scormcontent/assets/zkTADjZ1ZszTL4tl_wstnV5Xj36VGMfAS.jpg" />
+<file href="scormcontent/assets/6PuxZ66oMGCsWgr2_J6gK4q4dfBLqFKTk.jpg" />
+<file href="scormcontent/assets/CbAkqkbQWKCNnYEA_81c5HIeV940VjNdu.jpg" />
+<file href="scormcontent/assets/9uREtaxX35sQ9fUV_tHMCoMVXyQcNxKK1.jpg" />
+<file href="scormcontent/assets/ZRm8eS26XduF5CQi_b05sLfZWAzdlNw4r.jpg" />
+<file href="scormcontent/assets/cfSwe2tFTdGXCOpL_2FfKMkt-mDrNRUbh.jpg" />
+<file href="scormcontent/assets/4lfnQkFwiMl-c7RU_ftpXJaP55sIwSaW9.jpg" />
+<file href="scormcontent/assets/qDmD3DFrDSrVqdau_mountains.jpg" />
+<file href="scormcontent/assets/rU_77BYgYEDrDhYT_nMyOHCSJ3p66i8iH.jpg" />
+<file href="scormcontent/assets/U3ZHHLuFyI-twoXi_YGxQ9MKmodHUGOyz.jpg" />
+<file href="scormcontent/assets/wEO9c6/Section%201%20Listening%20Vocabulary%20List.docx" />
+<file href="scormcontent/assets/hiqusJDI3HMwxbbs_ZZDEZqQPZfJh2VdZ.jpg" />
+<file href="scormcontent/assets/ITXXmmalhfsJg4Yw_sD1KuRijnoRCnkvp.jpg" />
+<file href="scormcontent/assets/M1h0A1srAR8lIOzr_VSYEcmscVzubnw4H.jpg" />
+<file href="scormcontent/assets/KAWJMolLISxYSHz6_AuGmj9hMsSBKionH.jpg" />
+<file href="scormcontent/assets/ULinTbuUsv3ILnRy_o03pacR4rwk8TlW7.jpg" />
+<file href="scormcontent/assets/2nx5Ig/Reading%20Section%201%20Vocabulary%20List.docx" />
+<file href="scormcontent/assets/2r3YGJrFvS9sZ0gP_Vu_BA0DDdSdlkoUF.jpg" />
+
+      <file href="scormcontent/locales/und.js" />
+
+    </resource>
+  </resources>
+</manifest>
